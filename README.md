@@ -1,0 +1,1 @@
+Havenly is a simple e-commerce app designed specifically for fashion enthusiasts. The app provides basic features for browsing and purchasing fashion products, such as a product catalog, shopping cart, and offline store locations accessible through maps (dummy data).
